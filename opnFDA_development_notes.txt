@@ -1,0 +1,21 @@
+OPEN FDA - Development notes
+
+Description: Here I save the development notes of the openFDA analysis project.
+
+The goals of this project are:
+
+1. Familiriaze with APIs to download data;
+2. Download and organize openFDA data;
+3. Perform analysis on FDA data (either network or text analysis);
+4. Make data accessibile with an app.
+
+TO DO:
+- Explore the query and define the fields I need for the analysis
+- Create script to download all the data
+- Organize the dataset in structured format for the analysis
+- Perform analysis
+- Develop exploration app
+
+Documentation:
+- A description of the drug labeling is available here: https://open.fda.gov/apis/drug/label/
+- A description of the structured product labeling is available here: https://www.fda.gov/industry/fda-data-standards-advisory-board/structured-product-labeling-resources
